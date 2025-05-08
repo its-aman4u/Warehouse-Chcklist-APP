@@ -1,0 +1,19 @@
+# Python virtual environment
+venv/
+*/venv/
+.venv/
+
+# PyInstaller generated files
+build/
+dist/
+*.spec
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Editor/OS specific files (Optional)
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db

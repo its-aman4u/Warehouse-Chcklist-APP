@@ -547,7 +547,8 @@ class WarehouseSafetyApp(ctk.CTk):
         try:
             wb = openpyxl.Workbook()
             ws = wb.active
-            ws.title = "Safety Checklist Report"
+            ws.title = "Safety Checklist RePYTHON MAIN.PY" \
+            "port"
 
             # --- Styling ---
             H_FONT=OpenpyxlFont(name='Arial Black',size=16,bold=True,color="FF14467C")
